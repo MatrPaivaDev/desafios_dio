@@ -1,2 +1,2 @@
-# power_bi
-Resolução dos desafios de Power BI
+# Projetos da DIO
+Resolução dos desafios de DIO
